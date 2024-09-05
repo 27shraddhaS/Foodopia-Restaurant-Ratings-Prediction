@@ -42,6 +42,22 @@ This README provides an overview of the technical stack, machine learning models
 
 ---
 
+## **Predictor**
+![predictor](Predictor/assets/prediction.png)
+
+
+## **Recommender**
+![Recommender](Predictor/assets/Recommender.png)
+
+
+## **Analysis**
+![Analysis](Predictor/assets/Analysis.png)
+![Analysis](Predictor/assets/Analysis2.png)
+
+## **Top 10s**
+![Top 10s](Predictor/assets/top.png)
+
+
 ## **Technical Overview**
 
 - **Programming Language**: Python
