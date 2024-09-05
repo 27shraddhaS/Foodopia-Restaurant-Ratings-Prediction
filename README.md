@@ -1,4 +1,4 @@
-# **Foodopia: Restaurrant Ratings Prediction for Wise Investments**
+# **Foodopia: Restaurant Ratings Prediction for Wise Investments**
 
 Restaurant Recommendation
 
