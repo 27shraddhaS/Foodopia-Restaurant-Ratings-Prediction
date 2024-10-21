@@ -2,7 +2,7 @@
 
 Restaurant Recommendation
 
-**Food for you Mood**
+**Food for your Mood**
 
 **Foodopia** is a data-driven application that predicts restaurrant ratings based on various input parameters, helping restaurrant owners make informed investment decisions. The app uses advanced machine learning models to generate accurate predictions, allowing owners to understand potential performance before investing in restaurrant improvements or new ventures. It also has a recommendation systems to recomemend Restaurants near you to enjoy the food according to your prefrences.
 
